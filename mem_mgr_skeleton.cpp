@@ -19,7 +19,7 @@
 #define REPLACE_POLICY FIFO
 
 // SET TO 128 to use replacement policy: FIFO or LRU,
-#define NFRAMES 128
+#define NFRAMES 256
 #define PTABLE_SIZE 256
 #define TLB_SIZE 16
 
